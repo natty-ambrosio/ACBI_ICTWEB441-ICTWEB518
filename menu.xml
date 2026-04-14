@@ -9,28 +9,28 @@
       <name>Beetroot and Feta Salad</name>
       <price>$16.00</price>
       <description>Suitable for vegetarians, made with fresh beetroot</description>
-      <image>images/salad.svg</image>
+      <image>image/salad.svg</image>
     </item>
 
     <item>
       <name>Sourdough Rye Sandwich</name>
       <price>$18.00</price>
       <description>Cheese and salad sandwich made with organic sourdough rye bread</description>
-      <image>images/sandwich.svg</image>
+      <image>image/sandwich.svg</image>
     </item>
 
     <item>
       <name>Spinach Pie and Salad</name>
       <price>$20.00</price>
       <description>Tasty pie with salad</description>
-      <image>images/pie.svg</image>
+      <image>image/pie.svg</image>
     </item>
 
     <item>
       <name>Avocado Toast</name>
       <price>$17.00</price>
       <description>Smashed avocado on toasted sourdough with cherry tomatoes</description>
-      <image>images/toast.svg</image>
+      <image>image/toast.svg</image>
     </item>
 
   </section>
@@ -42,21 +42,21 @@
       <name>Small Coffee</name>
       <price>$3.50</price>
       <description>For coffee, please inform the staff of the coffee type</description>
-      <image>images/coffee.svg</image>
+      <image>image/coffee.svg</image>
     </item>
 
     <item>
       <name>Regular Coffee</name>
       <price>$4.00</price>
       <description>For coffee, please inform the staff of the coffee type</description>
-      <image>images/coffee.svg</image>
+      <image>image/coffee.svg</image>
     </item>
 
     <item>
       <name>Large Coffee</name>
       <price>$4.50</price>
       <description>For coffee, please inform the staff of the coffee type</description>
-      <image>images/coffee.svg</image>
+      <image>image/coffee.svg</image>
     </item>
 
   </section>
@@ -68,21 +68,21 @@
       <name>Soda</name>
       <price>$3.00</price>
       <description>Chilled soft drink of your choice</description>
-      <image>images/beverage.svg</image>
+      <image>image/beverage.svg</image>
     </item>
 
     <item>
       <name>Fresh Juice</name>
       <price>$6.00</price>
       <description>Freshly squeezed juice of your choice</description>
-      <image>images/beverage.svg</image>
+      <image>image/beverage.svg</image>
     </item>
 
     <item>
       <name>Bottled Water</name>
       <price>$2.00</price>
       <description>Still or sparkling bottled water</description>
-      <image>images/beverage.svg</image>
+      <image>image/beverage.svg</image>
     </item>
 
   </section>
