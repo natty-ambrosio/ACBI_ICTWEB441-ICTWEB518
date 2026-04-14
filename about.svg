@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="340" viewBox="0 0 500 340">
+  <defs>
+    <linearGradient id="ab" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#c8a97e"/>
+      <stop offset="100%" style="stop-color:#8b5e3c"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="340" fill="url(#ab)"/>
+  <!-- table -->
+  <rect x="130" y="200" width="240" height="12" rx="4" fill="#5a3320"/>
+  <rect x="160" y="212" width="10" height="60" fill="#5a3320"/>
+  <rect x="330" y="212" width="10" height="60" fill="#5a3320"/>
+  <!-- coffee cup on table -->
+  <rect x="215" y="140" width="70" height="64" rx="6" fill="#2c1a0e"/>
+  <rect x="223" y="148" width="54" height="48" rx="4" fill="#c8a97e"/>
+  <path d="M285 155 Q308 167 308 186 Q308 205 285 212" stroke="#2c1a0e" stroke-width="8" fill="none"/>
+  <ellipse cx="250" cy="205" rx="40" ry="7" fill="#2c1a0e"/>
+  <!-- steam -->
+  <path d="M235 135 Q239 120 235 108" stroke="#f5e6d3" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M250 130 Q254 115 250 103" stroke="#f5e6d3" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M265 135 Q269 120 265 108" stroke="#f5e6d3" stroke-width="2" fill="none" opacity="0.7"/>
+  <text x="250" y="300" font-family="Georgia,serif" font-size="18" fill="#f5e6d3" text-anchor="middle" font-style="italic">Since 2005</text>
+</svg>

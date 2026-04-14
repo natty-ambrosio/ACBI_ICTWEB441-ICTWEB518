@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="40" viewBox="0 0 160 40">
+  <circle cx="20" cy="20" r="16" fill="#c8a97e"/>
+  <text x="20" y="25" font-family="Georgia,serif" font-size="14" fill="#2c1a0e" text-anchor="middle" font-weight="bold">BC</text>
+  <text x="95" y="26" font-family="Georgia,serif" font-size="16" fill="#f5e6d3" text-anchor="middle" font-weight="bold">Bryan's Café</text>
+</svg>

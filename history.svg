@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="340" viewBox="0 0 500 340">
+  <defs>
+    <linearGradient id="hi" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3d2b1a"/>
+      <stop offset="100%" style="stop-color:#7a5230"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="340" fill="url(#hi)"/>
+  <!-- storefront -->
+  <rect x="80" y="120" width="340" height="160" fill="#5a3320"/>
+  <!-- roof -->
+  <polygon points="60,120 250,60 440,120" fill="#8b5e3c"/>
+  <!-- door -->
+  <rect x="210" y="200" width="80" height="80" rx="4" fill="#2c1a0e"/>
+  <circle cx="285" cy="243" r="5" fill="#c8a97e"/>
+  <!-- windows -->
+  <rect x="100" y="150" width="80" height="60" rx="4" fill="#c8a97e" opacity="0.7"/>
+  <rect x="320" y="150" width="80" height="60" rx="4" fill="#c8a97e" opacity="0.7"/>
+  <!-- awning stripes -->
+  <rect x="80" y="120" width="340" height="30" fill="#c8a97e" opacity="0.5"/>
+  <!-- sign -->
+  <text x="250" y="142" font-family="Georgia,serif" font-size="14" fill="#2c1a0e" text-anchor="middle" font-weight="bold">Bryan's Café</text>
+  <text x="250" y="310" font-family="Georgia,serif" font-size="16" fill="#f5e6d3" text-anchor="middle" font-style="italic">Est. 2005 · Sydney, Australia</text>
+</svg>

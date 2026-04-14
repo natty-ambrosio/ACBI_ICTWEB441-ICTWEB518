@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#fafafa"/>
+  <!-- plate -->
+  <ellipse cx="200" cy="190" rx="150" ry="28" fill="#e0e0e0"/>
+  <ellipse cx="200" cy="185" rx="145" ry="24" fill="#eeeeee"/>
+  <!-- pie body -->
+  <ellipse cx="200" cy="155" rx="110" ry="70" fill="#f9a825"/>
+  <ellipse cx="200" cy="140" rx="110" ry="55" fill="#fb8c00"/>
+  <!-- crust top -->
+  <path d="M90,140 Q200,90 310,140" stroke="#e65100" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- fork lines -->
+  <rect x="200" y="90" width="4" height="28" rx="2" fill="#8d6e63"/>
+  <rect x="210" y="90" width="4" height="28" rx="2" fill="#8d6e63"/>
+  <rect x="220" y="90" width="4" height="28" rx="2" fill="#8d6e63"/>
+  <rect x="200" y="118" width="24" height="4" rx="2" fill="#8d6e63"/>
+  <rect x="198" y="122" width="4" height="34" rx="2" fill="#8d6e63"/>
+  <!-- filling peek -->
+  <ellipse cx="200" cy="155" rx="85" ry="50" fill="#558b2f" opacity="0.4"/>
+  <text x="200" y="232" font-family="Arial,sans-serif" font-size="15" fill="#e65100" text-anchor="middle" font-weight="bold">Spinach Pie and Salad</text>
+</svg>

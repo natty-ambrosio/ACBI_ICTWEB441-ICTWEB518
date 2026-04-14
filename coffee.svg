@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#efebe9"/>
+  <!-- saucer -->
+  <ellipse cx="200" cy="215" rx="100" ry="16" fill="#8d6e63"/>
+  <ellipse cx="200" cy="212" rx="96" ry="13" fill="#a1887f"/>
+  <!-- cup -->
+  <path d="M140,120 L155,210 L245,210 L260,120 Z" rx="4" fill="#4e342e"/>
+  <path d="M143,120 L157,206 L243,206 L257,120 Z" fill="#795548"/>
+  <!-- handle -->
+  <path d="M260,140 Q298,140 298,175 Q298,210 260,210" stroke="#4e342e" stroke-width="16" fill="none" stroke-linecap="round"/>
+  <path d="M260,148 Q290,148 290,175 Q290,202 260,202" stroke="#795548" stroke-width="8" fill="none"/>
+  <!-- coffee surface -->
+  <ellipse cx="200" cy="122" rx="57" ry="10" fill="#3e2723"/>
+  <ellipse cx="200" cy="122" rx="50" ry="8" fill="#6d4c41"/>
+  <!-- latte art -->
+  <path d="M175,122 Q200,115 225,122 Q200,116 175,122" stroke="#d7ccc8" stroke-width="2" fill="none" opacity="0.7"/>
+  <!-- steam -->
+  <path d="M180,108 Q185,92 180,78" stroke="#bdbdbd" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <path d="M200,103 Q205,87 200,73" stroke="#bdbdbd" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <path d="M220,108 Q225,92 220,78" stroke="#bdbdbd" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <text x="200" y="246" font-family="Arial,sans-serif" font-size="15" fill="#4e342e" text-anchor="middle" font-weight="bold">Coffee</text>
+</svg>

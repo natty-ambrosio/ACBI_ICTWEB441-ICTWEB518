@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="260" viewBox="0 0 400 260">
+  <rect width="400" height="260" fill="#e8f5e9"/>
+  <!-- bowl -->
+  <ellipse cx="200" cy="180" rx="130" ry="50" fill="#a5d6a7"/>
+  <path d="M70,150 Q200,230 330,150" stroke="#81c784" stroke-width="3" fill="#c8e6c9"/>
+  <!-- greens -->
+  <ellipse cx="160" cy="140" rx="45" ry="28" fill="#66bb6a" transform="rotate(-15,160,140)"/>
+  <ellipse cx="210" cy="130" rx="38" ry="24" fill="#81c784" transform="rotate(10,210,130)"/>
+  <ellipse cx="250" cy="145" rx="40" ry="26" fill="#4caf50" transform="rotate(-5,250,145)"/>
+  <!-- beetroot pieces -->
+  <circle cx="155" cy="148" r="14" fill="#c62828" opacity="0.85"/>
+  <circle cx="242" cy="138" r="12" fill="#ad1457" opacity="0.85"/>
+  <circle cx="195" cy="135" r="10" fill="#c62828" opacity="0.85"/>
+  <!-- feta crumbles -->
+  <rect x="170" y="128" width="12" height="8" rx="2" fill="white" opacity="0.9"/>
+  <rect x="220" y="142" width="10" height="7" rx="2" fill="white" opacity="0.9"/>
+  <rect x="196" y="155" width="14" height="8" rx="2" fill="white" opacity="0.9"/>
+  <text x="200" y="232" font-family="Arial,sans-serif" font-size="15" fill="#388e3c" text-anchor="middle" font-weight="bold">Beetroot &amp; Feta Salad</text>
+</svg>
